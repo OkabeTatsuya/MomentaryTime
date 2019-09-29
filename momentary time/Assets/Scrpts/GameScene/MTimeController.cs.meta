@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7426b81bf89ee984f982298f1d77ddd0
+timeCreated: 1538971124
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MGScript: {instanceID: 0}
+  - MomentarySE: {fileID: 8300000, guid: 4cd853f4b4ba479489653e2cd719f658, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
